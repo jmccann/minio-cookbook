@@ -1,6 +1,6 @@
 # minio
 
-Simple cookbook to standup a minio server.
+Simple cookbook to setup a minio server.
 
 ## Supported Platforms
 
@@ -61,10 +61,15 @@ If you run into issues testing please first remove any additional gems you may
 have installed into your ChefDK environment.  Extra gems can be found and removed
 at `~/.chefdk/gem`.
 
-## License and Authors
+## Authors
 
-Author:: Jacob McCann (<jacob.mccann2@target.com>)
+Author:: Patrick Schaumburg (<info@p-schaumburg.de>)
 
-```text
-Copyright (c) 2017 Jacob McCann, All Rights Reserved.
-```
+
+## Creator of the initial package
+
+* Jacob McCann (<jacob.mccann2@target.com>)
+
+## License
+
+Apache 2.0
